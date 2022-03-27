@@ -1,4 +1,4 @@
-## Project-2----investigate-a-dataset
+## investigate-a-dataset
 Udacity data analyst nanodegree -- project 2 investigate a dataset
 
 In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
@@ -39,17 +39,13 @@ I'll use a Jupyter notebook, that I can submit both the code I wrote and the rep
 
 ### Step Three - Analyze my Data
 
-Questions to answer:
-1- Which genres are most popular from year to year?
-
-2- What kinds of properties are associated with movies that have high revenues?
 
 SAMPLES OF CODE:
 <BR>
 *******************************************************<BR>
 <BR>
 
-![1](https://user-images.githubusercontent.com/11509483/91175485-2c17aa80-e6e1-11ea-9156-7af5dfb76dca.png)
+![1]![image](https://user-images.githubusercontent.com/96214618/160298511-5d9cb0db-e650-4123-bad0-2e5250b1f913.png)
 
 <BR>
 *******************************************************<BR>
