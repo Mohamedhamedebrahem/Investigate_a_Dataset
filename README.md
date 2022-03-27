@@ -45,7 +45,11 @@ SAMPLES OF CODE:
 *******************************************************<BR>
 <BR>
 
-![1]![image](https://user-images.githubusercontent.com/96214618/160298511-5d9cb0db-e650-4123-bad0-2e5250b1f913.png)
+![1]Exploratory Data Analysis
+Calculating the profit of the each movie
+# drow histogram to our columns in dataset 
+tmdb_data.hist(figsize = (12,12));
+
 
 <BR>
 *******************************************************<BR>
