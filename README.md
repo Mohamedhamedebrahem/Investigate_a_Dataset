@@ -45,10 +45,7 @@ SAMPLES OF CODE:
 *******************************************************<BR>
 <BR>
 
-![1]Exploratory Data Analysis
-Calculating the profit of the each movie
-# drow histogram to our columns in dataset 
-tmdb_data.hist(figsize = (12,12));
+![1](https://user-images.githubusercontent.com/96214618/160707531-9edcef6d-2163-4d80-b8ff-c353c8f9de99.PNG)
 
 
 <BR>
