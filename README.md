@@ -39,6 +39,8 @@ I'll use a Jupyter notebook, that I can submit both the code I wrote and the rep
 
 ### Step Three - Analyze my Data
 
+Questions to answer:
+1- Calculating the profit of the each movie?
 
 SAMPLES OF CODE:
 <BR>
