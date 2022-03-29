@@ -58,17 +58,16 @@ SAMPLES OF CODE:
 <BR>
 *******************************************************<BR>
 <BR>
-![3](https://user-images.githubusercontent.com/11509483/91175491-2de16e00-e6e1-11ea-8d1a-63596dacaf5c.png)
+![3](https://user-images.githubusercontent.com/96214618/160709380-a75f53c5-171d-4f8a-a48a-70ac0e678583.PNG)
 
 <BR>
 *******************************************************<BR>
 <BR>
-![4](https://user-images.githubusercontent.com/11509483/91175495-2e7a0480-e6e1-11ea-887f-71e9f41d70d3.png)
+![4](https://user-images.githubusercontent.com/96214618/160709476-4df43f21-fd08-4c35-bbcb-bef21abec9e0.PNG)
 
 <BR>
 *******************************************************<BR>
 <BR>
-![5](https://user-images.githubusercontent.com/11509483/91175496-2f129b00-e6e1-11ea-9049-689e98b52031.png)
-  ![1-323741](https://user-images.githubusercontent.com/96214618/160702606-19e363ca-5643-42a5-a92e-ec747b202b40.jpg)
+![5](https://user-images.githubusercontent.com/96214618/160709875-6f1b0786-6440-4559-81c7-12556569fada.PNG)
 
 
