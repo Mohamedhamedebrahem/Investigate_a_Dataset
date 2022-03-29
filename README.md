@@ -70,4 +70,6 @@ tmdb_data.hist(figsize = (12,12));
 *******************************************************<BR>
 <BR>
 ![5](https://user-images.githubusercontent.com/11509483/91175496-2f129b00-e6e1-11ea-9049-689e98b52031.png)
+  ![1-323741](https://user-images.githubusercontent.com/96214618/160702606-19e363ca-5643-42a5-a92e-ec747b202b40.jpg)
+
 
